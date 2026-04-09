@@ -5,9 +5,13 @@ This project analyzes customer shopping behavior using transactional data from 3
 See below steps:
 
 ### Clone the repository
-`git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git`
-`cd customer-trends-data-analysis-SQL-Python-PowerBI`
-
+```
+git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+```
+### Move into the project directory
+```
+cd customer-trends-data-analysis-SQL-Python-PowerBI
+```
 ### Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 This file contains:
 - Data Import
