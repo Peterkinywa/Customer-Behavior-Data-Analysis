@@ -1,7 +1,7 @@
 # Customer-Behavior-Data-Analysis
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
-## Want to use this project?
+# Want to use this project?
 See below steps:
 
 ### Clone the repository
