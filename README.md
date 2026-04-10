@@ -1,7 +1,7 @@
 # Customer-Behavior-Data-Analysis
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
-# Want to use this project?
+## Want to use this project?
 See below steps:
 
 ### Clone the repository
@@ -32,3 +32,9 @@ This file contains:
 ### Create Project Report and Presentation
 - Create project report
 - Build presentation deck using Gamma AI
+
+## Customer Behaviour Analysis Dashboard
+<img width="1326" height="767" alt="image" src="https://github.com/user-attachments/assets/c848ad99-cd64-4a99-9362-c72ba442136f" />
+
+## Author
+Peter Kinywa Mutua, Data Analyst
