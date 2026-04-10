@@ -41,4 +41,5 @@ Peter Kinywa Mutua, Data Analyst
 
 ## License
 Feel free to fork, star and use in your portfolio.
+
 ![License](https://img.shields.io/badge/License-Internal-orange)
