@@ -6,7 +6,7 @@ See below steps:
 
 ### Clone the repository
 ```
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+git clone https://github.com/Peterkinywa/Customer-Behavior-Data-Analysis.git
 ```
 ### Move into the project directory
 ```
